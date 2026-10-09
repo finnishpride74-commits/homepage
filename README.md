@@ -1,4 +1,4 @@
-# Phosphor Icons
+2e2e2e# Phosphor Icons
 
 <!-- BEGIN_LOGO -->
 <img src="/.github/logo.png" width="128" align="right" />
